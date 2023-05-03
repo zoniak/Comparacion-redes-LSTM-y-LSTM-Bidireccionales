@@ -13,7 +13,7 @@ de noviembre de 2015, por lo que se puede decir que es bastante reciente,
 aunque con los constantes cambios que sufre el campo de la Informática se
 podría discutir.
 
-Este trabajo se enfoca en el desarrollo de redes neuronales LSTM y LSTM
+El trabajo se enfoca en el desarrollo de redes neuronales LSTM y LSTM
 Bidireccionales, comparando los resultados de estas en predicciones acústicas
 de una calle de Barcelona para identificar cual es más indicada para estos casos
 en contraste con los datos reales de estas.
